@@ -1,4 +1,4 @@
-class puppet-java {
+class java {
 
   $java_packages = ['openjdk-6-jdk', 'openjdk-6-source', 'openjdk-7-jdk', 'openjdk-7-source']
 
